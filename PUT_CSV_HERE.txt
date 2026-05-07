@@ -1,0 +1,5 @@
+Place the downloaded CSV file here:
+  Customer Purchasing Behaviors.csv
+
+Download from:
+  https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors
